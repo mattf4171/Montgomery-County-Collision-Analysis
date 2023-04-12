@@ -1,1 +1,4 @@
 .DS_STORE
+
+# Data set is over 100 MB cannot push to git repo without issues
+Data/Maryland_Statewide_Vehicle_Crashes.csv
